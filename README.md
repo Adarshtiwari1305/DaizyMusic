@@ -1,11 +1,11 @@
-<h1 align="center">DAISYX MUSIC V6.0 🎵</h1>
+<h1 align="center">DAIZY X MUSIC V6.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@Daisy_X_Bot](https://t.me/Daizy_X_Bot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/50a9b077e58caf7f52e2c.jpg"
 </p>
 
 <h2> Features 🔥 </h2>
@@ -44,15 +44,15 @@ $ apt install nodejs -y
 $ pip3 install -U pip
 $ npm i -g npm
 # Now Do Git Clone
-$ git clone https://github.com/TeamDaisyX/DaisyXmusic
-$ cd DaisyXMusic
+$ git clone https://github.com/Adarshtiwari1305/DaizyMusic
+$ cd DaizyMusic
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -U -r requirements.txt
 # Now Edit example.env and enter your creds
 $ cp example.env .env
 # Now start the Bot
-$ python3 -m DaisyXMusic
+$ python3 -m DaizyMusic
 ```
 
 ### Commands for Group 🛠
@@ -116,7 +116,7 @@ If you donlt like to play in linked channel:
 
 
 ## Special Credits
-- [Dan](https://github.com/delivrance) For [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [Adarsh](https://github.com/Adarsgtiwari1305) For [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Laky-64](https://github.com/Laky-64) For [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
 ### Inspiration
@@ -124,23 +124,23 @@ If you donlt like to play in linked channel:
 - [tgvc-userbot](https://github.com/callsmusic/tgvc-userbot)
 
 #### Contributors
-- [InukaAsith](https://github.com/InukaAsith): Dev / Owner
+
 - [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
-- [Hellboy-OP](https://github.com/hellboy-op)
-- [Roj Serbest](http://github.com/rojserbest): Developer of callsmusic 
-- [DeshadeethThisarana](https://github.com/deshadeeth-thisarana): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [Anjana-Ma](https://github.com/Anjana-Ma): Dev
-- [ImJanindu](https://github.com/ImJanindu): Dev
-- [azimazizov9150](https://github.com/azimazizov9150): Contributor
+
+
+
+
+
+
+
+
+
 
 
 ## Copyright & License 👮
 
- - Copyright (C) 2020-present by [TeamDaisyX](github.com/teamdaisyx) ❤️️
- - Licensed under the terms of the [MIT License](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
+ - Copyright (C) 2020-present by [Adarshtiwari1305](github.com/Adarshtiwari1305) ❤️️
+ - Licensed under the terms of the [MIT License](https://github.com/Adarshtiwari1305/DaizyMusic/blob/master/LICENSE)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the MIT License as published by the Free Software Foundation.    
-## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
+## Made with ♥️ by [Adarshtiwari1305](https://github.com/Adarshtiwari1305)
