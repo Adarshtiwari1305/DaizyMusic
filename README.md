@@ -44,7 +44,7 @@ $ apt install nodejs -y
 $ pip3 install -U pip
 $ npm i -g npm
 # Now Do Git Clone
-$ git clone https://github.com/Adarshtiwari1305/DaizyMusic
+$ git clone https://github.com/Adarshtiwari1305/DaizyMusic1
 $ cd DaizyMusic
 # Upgrade sources
 # Install All Requirements 
@@ -140,7 +140,7 @@ If you donlt like to play in linked channel:
 ## Copyright & License 👮
 
  - Copyright (C) 2020-present by [Adarshtiwari1305](github.com/Adarshtiwari1305) ❤️️
- - Licensed under the terms of the [MIT License](https://github.com/Adarshtiwari1305/DaizyMusic/blob/master/LICENSE)
+ - Licensed under the terms of the [MIT License](https://github.com/Adarshtiwari1305/DaizyMusic1/blob/master/LICENSE)
     
 DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the MIT License as published by the Free Software Foundation.    
 ## Made with ♥️ by [Adarshtiwari1305](https://github.com/Adarshtiwari1305)
