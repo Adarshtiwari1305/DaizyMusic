@@ -1,11 +1,11 @@
-<h1 align="center">DAIZY X MUSIC V6.0 🎵</h1>
+<h1 align="center">VICTOR DAIZY  MUSIC 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@Daisy_X_Bot](https://t.me/Daizy_X_Bot)
+### Available on telegram as [@Victor_Daizy_Music_Bot](https://t.me/Victor_Daizy_Music_Bot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/50a9b077e58caf7f52e2c.jpg"
+  <img src="https://telegra.ph/file/169a05691d278557e26ba.png"
 </p>
 
 <h2> Features 🔥 </h2>
@@ -100,7 +100,7 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @DaisyXBot as Channel admin with full perms
+ 3. Add @Victor_Daizy_Music_Bot as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
@@ -117,7 +117,7 @@ If you donlt like to play in linked channel:
 
 ## Special Credits
 - [Adarsh](https://github.com/Adarsgtiwari1305) For [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Laky-64](https://github.com/Laky-64) For [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+
 
 ### Inspiration
 - [Callsmusic](http://github.com/callsmusic/callsmusic)
@@ -125,7 +125,7 @@ If you donlt like to play in linked channel:
 
 #### Contributors
 
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
+
 
 
 
